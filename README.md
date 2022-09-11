@@ -2,7 +2,6 @@
 TO run this model on your system some steps are as follow:
 1.	Install python 3.10 or higher version
 2.	After that install some libraries using pip commands
-
 i.	OpenCV
 ii.	Editdistance
 iii.	Numpy
